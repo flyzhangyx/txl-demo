@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1513596264 source:c:\users\hasee\2017210415\test\inputrecord.c
+	"main.h"
+
+1513596587 c:\users\hasee\2017210415\test\main.h
+	<stdio.h>
+	<string.h>
+
+1513596790 source:c:\users\hasee\2017210415\test\main.c
+	"main.h"
+
+1513596264 source:c:\users\hasee\2017210415\test\printrecord.c
+	"main.h"
+

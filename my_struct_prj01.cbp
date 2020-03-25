@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="my_struct_prj01" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/my_struct_prj01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/my_struct_prj01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/main.h" />
+		<Unit filename="src/add.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/all clean.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/clean all.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/clean.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/edit name.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/edit number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/editc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/find.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/print.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/readfile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/write.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/zhucaidan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/单个删除.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/号码删除.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/号码查询.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/姓名查询.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

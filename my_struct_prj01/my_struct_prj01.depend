@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1512032899 source:c:\users\hasee\2017210415\my_struct_prj01\src\add.c
+	"../include/main.h"
+
+1512226299 c:\users\hasee\2017210415\my_struct_prj01\include\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdio.h>
+
+1512226299 source:c:\users\hasee\2017210415\my_struct_prj01\src\all clean.c
+	"../include/main.h"
+
+1512032899 source:c:\users\hasee\2017210415\my_struct_prj01\src\clean all.c
+	"../include/main.h"
+
+1512226383 source:c:\users\hasee\2017210415\my_struct_prj01\src\clean.c
+	"../include/main.h"
+
+1512032899 source:c:\users\hasee\2017210415\my_struct_prj01\src\edit name.c
+	"../include/main.h"
+
+1512032709 source:c:\users\hasee\2017210415\my_struct_prj01\src\edit number.c
+	"../include/main.h"
+
+1512032709 source:c:\users\hasee\2017210415\my_struct_prj01\src\editc.c
+	"../include/main.h"
+
+1512032709 source:c:\users\hasee\2017210415\my_struct_prj01\src\find.c
+	"../include/main.h"
+
+1512031362 source:c:\users\hasee\2017210415\my_struct_prj01\src\main.c
+	"../include/main.h"
+
+1512226187 source:c:\users\hasee\2017210415\my_struct_prj01\src\print.c
+	"../include/main.h"
+
+1512032336 source:c:\users\hasee\2017210415\my_struct_prj01\src\readfile.c
+	"../include/main.h"
+
+1512032336 source:c:\users\hasee\2017210415\my_struct_prj01\src\write.c
+	"../include/main.h"
+
+1512032336 source:c:\users\hasee\2017210415\my_struct_prj01\src\zhucaidan.c
+	"../include/main.h"
+
+1512032336 source:c:\users\hasee\2017210415\my_struct_prj01\src\µ¥¸öÉ¾³ı.c
+	"../include/main.h"
+
+1512033182 source:c:\users\hasee\2017210415\my_struct_prj01\src\ºÅÂëÉ¾³ı.c
+	"../include/main.h"
+
+1512033182 source:c:\users\hasee\2017210415\my_struct_prj01\src\ºÅÂë²éÑ¯.c
+	"../include/main.h"
+
+1512033182 source:c:\users\hasee\2017210415\my_struct_prj01\src\ĞÕÃû²éÑ¯.c
+	"../include/main.h"
+
